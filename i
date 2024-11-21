@@ -13,8 +13,11 @@
     "t9": "",
     "t10": "poiNlBOaYFppuvYvRJJf3DDD40D2F68DBDE5batMnhnZGUnPCQgSXDCM",
     "t11": "IutcxSnFPxwsYJtWnMaTe25fa0c3-249e-4523-83c2-f684aaa84e3cWHcDECvodSgmjfMJxttT",
-    "t12": "XMEGZaJJifEORDKuChjU0e564aa1-4bc9-40b8-991a-d79a737d7ceaSDlkGYxjzowFIcOOtozu",
-    "t13": ""
+    "t12": "",
+    "t13": "",
+    "t14": "zcMkZHKNWOfWCJcfFPsvcXVlbnRpbmxhbmdsZXk6MTU4NTg1NQ==wsqStmYOoIyqyUOTCNsI",
+    "t15": "",
+    "t16": ""
   },
   "spc": {
     "s1": {
@@ -68,6 +71,18 @@
     "s13": {
       "h": "188.245.104.81",
       "p": 8000
+    },
+    "s14": {
+      "h": "",
+      "p": 80
+    },
+    "s15": {
+      "h": "",
+      "p": 80
+    },
+    "s16": {
+      "h": "",
+      "p": 80
     }
   },
   "sti": {
@@ -83,6 +98,9 @@
     "st10f": 1440,
     "st11f": 1440,
     "st12f": 1440,
-    "st13f": 1440
+    "st13f": 1440,
+    "st14f": 1440,
+    "st15f": 1440,
+    "st16f": 1440
   }
 }
